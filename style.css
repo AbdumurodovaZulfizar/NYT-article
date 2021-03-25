@@ -160,14 +160,17 @@ i {
 .describe {
   font-weight: bolder;
 }
+
 footer a {
   text-decoration: none;
   color: rgb(54, 53, 53);
 }
+
 td > a {
   text-decoration: none;
   color: rgb(54, 53, 53);
 }
+
 .subscribe > a {
   color: rgb(32, 76, 110);
   font-weight: bolder;
@@ -206,7 +209,6 @@ td > a {
   height: 80px;
   width: 80px;
   margin: 2px;
-
   font-size: 15px;
   text-decoration: none;
   margin-bottom: 5px;
@@ -216,7 +218,6 @@ td > a {
   width: 200px;
   height: 200px;
   text-decoration: none;
-
   margin-top: 70px;
   float: right;
 }
@@ -257,12 +258,10 @@ footer .footer-col {
 
 .container {
   display: flex;
-
   align-self: center;
   align-items: center;
   position: relative;
   float: left;
-
   height: 520px;
 }
 
@@ -283,13 +282,16 @@ footer li {
   color: black;
   font-size: 15px;
 }
+
 .footer-links a {
-  margin: 0px 10px 0px 10px;
+  margin-left: 10px;
+  margin-right: 10px;
   font-size: 12px;
   color: #666;
   margin-bottom: -20px;
   padding-bottom: -30px;
 }
+
 .container a:hover {
   text-decoration: underline;
 }
