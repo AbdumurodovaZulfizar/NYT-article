@@ -24,7 +24,7 @@ This project is a clone of New York Times Article. In this Project i used icons,
 <li>hover property</li>
 <li>etc</li>
 </ol>
-![Image of My project](https://static01.nyt.com/images/2014/03/18/science/space/18cosmos/18cosmos-superJumbo.jpg?quality=90&auto=webp)
+![Image of My project](/NYT-images/readme.PNG)
 <h3>Built With</h3>
     <li>Major languages:
         <ol>
