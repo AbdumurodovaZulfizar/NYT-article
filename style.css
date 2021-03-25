@@ -1,323 +1,323 @@
 .main,
 table {
-    width: 50%;
-    align-items: center;
-    align-self: center;
-    margin: auto;
-    font-size: 20px;
+  width: 50%;
+  align-items: center;
+  align-self: center;
+  margin: auto;
+  font-size: 20px;
 }
 
 main .subject {
-    padding-top: 70px;
-    font-size: 2rem;
-    font-weight: bold;
+  padding-top: 70px;
+  font-size: 2rem;
+  font-weight: bold;
 }
 
 .main {
-    font-size: 23px;
-    margin-bottom: 15px;
-    font-family: 'Times New Roman', Times, serif;
-    color: rgb(54, 53, 53);
+  font-size: 23px;
+  margin-bottom: 15px;
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(54, 53, 53);
 }
 
 iframe {
-    width: 100%;
-    height: 350px;
+  width: 100%;
+  height: 350px;
 }
 
 .center-image {
-    width: 100%;
-    height: 400px;
+  width: 100%;
+  height: 400px;
 }
 
 .fa-bars,
 .fa-search,
 .header {
-    float: left;
-    float: inline-start;
-    margin: 10px;
+  float: left;
+  float: inline-start;
+  margin: 10px;
 }
 
 .header {
-    margin-top: 20px;
-    margin-left: 10px;
+  margin-top: 20px;
+  margin-left: 10px;
 }
 
 .head-button {
-    float: right;
-    background-color: rgb(50, 104, 145);
-    color: white;
-    margin: 5px;
-    border-radius: 5px;
-    height: 30px;
-    margin-right: 2px;
-    margin-top: 15px;
+  float: right;
+  background-color: rgb(50, 104, 145);
+  color: white;
+  margin: 5px;
+  border-radius: 5px;
+  height: 30px;
+  margin-right: 2px;
+  margin-top: 15px;
 }
 
 .logo,
 .logo-last {
-    font-family: 'Times New Roman', Times, serif;
-    align-self: center;
-    margin-bottom: 5px;
-    margin-left: 25%;
-    margin-right: 25%;
-    height: 45px;
-    width: 180px;
+  font-family: 'Times New Roman', Times, serif;
+  align-self: center;
+  margin-bottom: 5px;
+  margin-left: 25%;
+  margin-right: 25%;
+  height: 45px;
+  width: 180px;
 }
 
 .logo-last {
-    float: left;
-    margin-left: 10px;
+  float: left;
+  margin-left: 10px;
 }
 
 header {
-    margin: 0px;
-    padding: 0px;
-    border-bottom: 1px solid black;
-    opacity: inherit;
-    margin-bottom: 50px;
-    position: fixed;
-    background-color: white;
-    display: flex;
-    width: 100%;
-    margin-top: -10px;
-    height: 50px;
+  margin: 0px;
+  padding: 0px;
+  border-bottom: 1px solid black;
+  opacity: inherit;
+  margin-bottom: 50px;
+  position: fixed;
+  background-color: white;
+  display: flex;
+  width: 100%;
+  margin-top: -10px;
+  height: 50px;
 }
 
 h2 {
-    font-size: 40px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-style: italic;
-    font-weight: 540;
-    font-weight: bolder;
+  font-size: 40px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+  font-weight: 540;
+  font-weight: bolder;
 }
 
 i {
-    font-size: 20px;
-    padding: 10px;
+  font-size: 20px;
+  padding: 10px;
 }
 
 .firstimage {
-    width: 900px;
-    align-self: center;
-    align-items: center;
-    margin: auto;
-    color: #666;
-    margin-bottom: 0px;
+  width: 900px;
+  align-self: center;
+  align-items: center;
+  margin: auto;
+  color: #666;
+  margin-bottom: 0px;
 }
 
 .description {
-    margin-top: 0px;
-    font-size: 15px;
+  margin-top: 0px;
+  font-size: 15px;
 }
 
 .writer {
-    color: #666;
-    opacity: 0.8;
-    font-size: 13px;
+  color: #666;
+  opacity: 0.8;
+  font-size: 13px;
 }
 
 .author,
 .date {
-    font-weight: bold;
-    margin-bottom: 30px;
-    margin-top: 30px;
-    font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  font-size: 20px;
 }
 
 .date {
-    font-weight: lighter;
-    color: #666;
+  font-weight: lighter;
+  color: #666;
 }
 
 .invite {
-    color: #666;
-    font-size: 17px;
-    font-style: italic;
-    margin-top: 0px;
+  color: #666;
+  font-size: 17px;
+  font-style: italic;
+  margin-top: 0px;
 }
 
 .sign {
-    font-weight: bolder;
-    font-size: 17px;
-    color: rgb(90, 90, 90);
+  font-weight: bolder;
+  font-size: 17px;
+  color: rgb(90, 90, 90);
 }
 
 .sign-button {
-    height: 35px;
-    width: 80px;
-    border: 1px solid black;
-    color: black;
-    font-weight: bolder;
-    border-radius: 2px;
+  height: 35px;
+  width: 80px;
+  border: 1px solid black;
+  color: black;
+  font-weight: bolder;
+  border-radius: 2px;
 }
 
 .subscribe {
-    align-items: center;
-    align-self: center;
-    font-size: 17px;
-    text-align: center;
-    margin-top: 50px;
-    margin-bottom: 50px;
+  align-items: center;
+  align-self: center;
+  font-size: 17px;
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
 
 .thanks,
 .describe {
-    font-weight: bolder;
-    margin-bottom: 0px;
+  font-weight: bolder;
+  margin-bottom: 0px;
 }
 
-.subscribe>a {
-    color: rgb(32, 76, 110);
-    font-weight: bolder;
-    text-decoration: none;
+.subscribe > a {
+  color: rgb(32, 76, 110);
+  font-weight: bolder;
+  text-decoration: none;
 }
 
-.main>a {
-    color: rgb(50, 104, 145);
+.main > a {
+  color: rgb(50, 104, 145);
 }
 
 .last {
-    font-size: 13px;
-    color: #666;
+  font-size: 13px;
+  color: #666;
 }
 
 .data {
-    float: left;
+  float: left;
 }
 
 .lasticons {
-    float: right;
+  float: right;
 }
 
 .comment-button {
-    height: 35px;
-    width: 400px;
-    background-color: rgb(50, 104, 145);
-    color: white;
-    font-weight: bolder;
-    border-radius: 3px;
-    box-shadow: none;
+  height: 35px;
+  width: 400px;
+  background-color: rgb(50, 104, 145);
+  color: white;
+  font-weight: bolder;
+  border-radius: 3px;
+  box-shadow: none;
 }
 
 .aside,
 .aside-img {
-    height: 80px;
-    width: 80px;
-    margin: 2px;
-    padding: 0px;
-    font-size: 15px;
-    text-decoration: none;
-    margin-bottom: 5px;
+  height: 80px;
+  width: 80px;
+  margin: 2px;
+  padding: 0px;
+  font-size: 15px;
+  text-decoration: none;
+  margin-bottom: 5px;
 }
 
 .aside-table {
-    width: 200px;
-    height: 200px;
-    text-decoration: none;
-    margin-right: 0px;
-    margin-top: 70px;
-    float: right;
+  width: 200px;
+  height: 200px;
+  text-decoration: none;
+  margin-right: 0px;
+  margin-top: 70px;
+  float: right;
 }
 
-td>a {
-    text-decoration: none;
-    color: rgb(54, 53, 53);
+td > a {
+  text-decoration: none;
+  color: rgb(54, 53, 53);
 }
 
 .footer-link {
-    font-size: 13px;
-    text-decoration: none;
-    color: rgb(50, 110, 156);
-    float: right;
-    margin-right: 40px;
+  font-size: 13px;
+  text-decoration: none;
+  color: rgb(50, 110, 156);
+  float: right;
+  margin-right: 40px;
 }
 
 .icon-label {
-    height: 20px;
-    width: 20px;
+  height: 20px;
+  width: 20px;
 }
 
 .row {
-    display: flex;
-    justify-content: flex-start;
-    width: 20%;
+  display: flex;
+  justify-content: flex-start;
+  width: 20%;
 }
 
 .footer-col {
-    margin: 100px;
-    padding: 50px;
-    float: left;
-    width: 300px;
+  margin: 100px;
+  padding: 50px;
+  float: left;
+  width: 300px;
 }
 
 footer a {
-    text-decoration: none;
-    color: rgb(54, 53, 53);
+  text-decoration: none;
+  color: rgb(54, 53, 53);
 }
 
 footer ul {
-    list-style: none;
+  list-style: none;
 }
 
 footer .footer-col {
-    margin: 2px;
+  margin: 2px;
 }
 
 .container {
-    display: flex;
-    margin-right: 0px;
-    align-self: center;
-    align-items: center;
-    position: relative;
-    float: left;
-    margin-top: 0px;
-    height: 520px;
+  display: flex;
+  margin-right: 0px;
+  align-self: center;
+  align-items: center;
+  position: relative;
+  float: left;
+  margin-top: 0px;
+  height: 520px;
 }
 
 footer li {
-    margin-left: -30px;
+  margin-left: -30px;
 }
 
 .article-link:hover {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 .aside-link:hover {
-    text-decoration: underline;
-    color: rgb(50, 110, 156);
+  text-decoration: underline;
+  color: rgb(50, 110, 156);
 }
 
 .container a {
-    color: black;
-    font-size: 15px;
+  color: black;
+  font-size: 15px;
 }
 
 h4 {
-    margin: 0px;
-    padding: 0px;
+  margin: 0px;
+  padding: 0px;
 }
 
 .container a:hover {
-    text-decoration: underline;
+  text-decoration: underline;
 }
 
 .footer-links {
-    height: 20px;
-    margin-bottom: 0px;
-    padding-bottom: 0px;
+  height: 20px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
 }
 
 .footer-links a {
-    margin: 0px 10px 0px 10px;
-    font-size: 12px;
-    color: #666;
-    margin-bottom: -20px;
-    padding-bottom: -30px;
+  margin: 0px 10px 0px 10px;
+  font-size: 12px;
+  color: #666;
+  margin-bottom: -20px;
+  padding-bottom: -30px;
 }
 
 .footerlinks:hover {
-    text-decoration: underline;
+  text-decoration: underline;
 }
 
 .item1,
@@ -336,51 +336,51 @@ h4 {
 .item14,
 .item15,
 .item16 {
-    height: 180px;
-    width: 220px;
-    margin: 2px 5px 2px 5px;
-    color: rgb(54, 53, 53);
+  height: 180px;
+  width: 220px;
+  margin: 2px 5px 2px 5px;
+  color: rgb(54, 53, 53);
 }
 
 .image-container {
-    display: flex;
-    height: 1000px;
-    width: 1000px;
-    flex-direction: row;
-    flex-wrap: wrap;
+  display: flex;
+  height: 1000px;
+  width: 1000px;
+  flex-direction: row;
+  flex-wrap: wrap;
 }
 
 .item1,
 .item2,
 .item3,
 .item4 {
-    order: 1;
+  order: 1;
 }
 
 .item5,
 .item6,
 .item7,
 .item8 {
-    order: 2;
+  order: 2;
 }
 
 .item9,
 .item10,
 .item11,
 .item12 {
-    order: 3;
+  order: 3;
 }
 
 .item13,
 .item14,
 .item15,
 .item16 {
-    order: 4;
-    margin-bottom: 0px;
+  order: 4;
+  margin-bottom: 0px;
 }
 
 .hr {
-    width: 400px;
-    float: left;
-    margin-bottom: 3px;
+  width: 400px;
+  float: left;
+  margin-bottom: 3px;
 }
