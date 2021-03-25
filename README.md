@@ -1,6 +1,29 @@
-# NYT-article
+# New York Times Article Clone
 
-It is an article about space&cosmos from The New York times. The article name is Space Ripples Reveal Big Bang’s Smoking Gun.This project consists of paragraphs, images and videos. 
+This project is a clone of New York Times Article. In this Project i used icons, images, videos, paragraphs. In CSS you can see selectors, classes, and hover property. And I have used icons without local file, used link in place of it.
+
+<h5>HTML tags that used in this project</h5>
+<ol>
+<li>html</li>
+<li>head</li>
+<li>body</li>
+<li>main</li>
+<li>header</li>
+<li>aside</li>
+<li>footer</li>
+<li>video</li>
+<li>iframe</li>
+<li>img</li>
+<li>div</li>
+<li>etc</li>
+</ol>
+<h5>CSS selectors that used in this project</h5>
+<ol>
+<li>html tags</li>
+<li>classes</li>
+<li>hover property</li>
+<li>etc</li>
+</ol>
 ![Image of My project](https://static01.nyt.com/images/2014/03/18/science/space/18cosmos/18cosmos-superJumbo.jpg?quality=90&auto=webp)
 <h3>Built With</h3>
     <li>Major languages:
