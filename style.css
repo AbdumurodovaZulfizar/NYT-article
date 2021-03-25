@@ -56,7 +56,7 @@ iframe {
 
 .logo,
 .logo-last {
-    font-family: 'Times New Roman';
+    font-family: 'Times New Roman', Times, serif;
     align-self: center;
     margin-bottom: 5px;
     margin-left: 25%;
