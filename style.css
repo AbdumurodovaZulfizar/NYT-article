@@ -71,8 +71,6 @@ iframe {
 }
 
 header {
-  margin: 0px;
-  padding: 0px;
   border-bottom: 1px solid black;
   opacity: inherit;
   margin-bottom: 50px;
@@ -103,11 +101,9 @@ i {
   align-items: center;
   margin: auto;
   color: #666;
-  margin-bottom: 0px;
 }
 
 .description {
-  margin-top: 0px;
   font-size: 15px;
 }
 
@@ -134,7 +130,6 @@ i {
   color: #666;
   font-size: 17px;
   font-style: italic;
-  margin-top: 0px;
 }
 
 .sign {
@@ -164,9 +159,15 @@ i {
 .thanks,
 .describe {
   font-weight: bolder;
-  margin-bottom: 0px;
 }
-
+footer a {
+  text-decoration: none;
+  color: rgb(54, 53, 53);
+}
+td > a {
+  text-decoration: none;
+  color: rgb(54, 53, 53);
+}
 .subscribe > a {
   color: rgb(32, 76, 110);
   font-weight: bolder;
@@ -205,7 +206,7 @@ i {
   height: 80px;
   width: 80px;
   margin: 2px;
-  padding: 0px;
+
   font-size: 15px;
   text-decoration: none;
   margin-bottom: 5px;
@@ -215,14 +216,9 @@ i {
   width: 200px;
   height: 200px;
   text-decoration: none;
-  margin-right: 0px;
+
   margin-top: 70px;
   float: right;
-}
-
-td > a {
-  text-decoration: none;
-  color: rgb(54, 53, 53);
 }
 
 .footer-link {
@@ -251,11 +247,6 @@ td > a {
   width: 300px;
 }
 
-footer a {
-  text-decoration: none;
-  color: rgb(54, 53, 53);
-}
-
 footer ul {
   list-style: none;
 }
@@ -266,12 +257,12 @@ footer .footer-col {
 
 .container {
   display: flex;
-  margin-right: 0px;
+
   align-self: center;
   align-items: center;
   position: relative;
   float: left;
-  margin-top: 0px;
+
   height: 520px;
 }
 
@@ -292,28 +283,19 @@ footer li {
   color: black;
   font-size: 15px;
 }
-
-h4 {
-  margin: 0px;
-  padding: 0px;
-}
-
-.container a:hover {
-  text-decoration: underline;
-}
-
-.footer-links {
-  height: 20px;
-  margin-bottom: 0px;
-  padding-bottom: 0px;
-}
-
 .footer-links a {
   margin: 0px 10px 0px 10px;
   font-size: 12px;
   color: #666;
   margin-bottom: -20px;
   padding-bottom: -30px;
+}
+.container a:hover {
+  text-decoration: underline;
+}
+
+.footer-links {
+  height: 20px;
 }
 
 .footerlinks:hover {
@@ -376,7 +358,6 @@ h4 {
 .item15,
 .item16 {
   order: 4;
-  margin-bottom: 0px;
 }
 
 .hr {
