@@ -312,8 +312,7 @@ footer li {
 .first-line a {
   color: rgb(54, 53, 53);
   font-size: 20px;
-  t
-  ext-decoration: none;
+  text-decoration: none;
 }
 .second-line a {
   color: rgb(54, 53, 53);
@@ -540,33 +539,6 @@ footer li {
 .address:hover {
   color: #666;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 .adlinks:hover {
   color: #666;
