@@ -37,7 +37,6 @@ header {
   position: fixed;
   background-color: white;
   display: flex;
-  width: 100%;
   margin-top: -10px;
   height: 50px;
 }
@@ -309,11 +308,13 @@ footer li {
   margin-bottom: -20px;
   padding-bottom: -30px;
 }
+
 .first-line a {
   color: rgb(54, 53, 53);
   font-size: 20px;
   text-decoration: none;
 }
+
 .second-line a {
   color: rgb(54, 53, 53);
   font-size: 20px;
@@ -337,6 +338,7 @@ footer li {
   font-size: 20px;
   text-decoration: none;
 }
+
 .container a:hover {
   text-decoration: underline;
 }
@@ -480,6 +482,7 @@ footer li {
   margin: 5px;
   height: 220px;
 }
+
 .second-line {
   display: flex;
   flex-direction: row;
