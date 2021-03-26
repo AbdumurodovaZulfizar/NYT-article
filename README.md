@@ -1,6 +1,6 @@
 # New York Times Article Clone
 
-This project is a clone of New York Times Article. In this Project i used icons, images, videos, paragraphs. In CSS you can see selectors, classes, and hover property. And I have used icons without local file, used link in place of it.
+This project is a clone of New York Times Article. In this Project I used icons, images, videos, paragraphs. In CSS you can see selectors, classes, and hover property. And I have used icons without local file, used link in head part in place of it.
 
 <h5>HTML tags that used in this project</h5>
 <ol>
@@ -44,12 +44,10 @@ This project is a clone of New York Times Article. In this Project i used icons,
 <h3>Getting Started</h3>
     <p>This project has been built to develop skills with HTML and CSS. Anyone can fork and use it!
 <h3>Prerequisites</h3>
-<h3>Setup</h3>
-<h3>Install</h3>
-<h3>Usage</h3>
-<h3>Run tests</h3>
-<h3>Deployment</h3>
-<h3>👤 Authors</h3>
+
+
+
+<h3>👤 Author</h3>
 <ul>
     <li>GitHub: <a href="https://github.com/AbdumurodovaZulfizar" target="_blank">@GitHublink</li>
     <li>Twitter: <a href="@Zulfiza70357085" target="_blank">@Twitterlink</li>
