@@ -1,6 +1,7 @@
 body {
   overflow-x: hidden;
 }
+
 .main,
 table {
   width: 50%;
@@ -27,9 +28,20 @@ iframe {
   width: 100%;
   height: 350px;
 }
+
 header {
   width: 100%;
+  border-bottom: 1px solid black;
+  opacity: inherit;
+  margin-bottom: 50px;
+  position: fixed;
+  background-color: white;
+  display: flex;
+  width: 100%;
+  margin-top: -10px;
+  height: 50px;
 }
+
 .center-image {
   width: 100%;
   height: 400px;
@@ -70,24 +82,14 @@ header {
   height: 45px;
   width: 180px;
 }
+
 .logo {
   margin-top: 25px;
 }
+
 .logo-last {
   float: left;
   margin-left: 10px;
-}
-
-header {
-  border-bottom: 1px solid black;
-  opacity: inherit;
-  margin-bottom: 50px;
-  position: fixed;
-  background-color: white;
-  display: flex;
-  width: 100%;
-  margin-top: -10px;
-  height: 50px;
 }
 
 h2 {
@@ -218,12 +220,14 @@ td > a {
   margin: 2px;
   margin-bottom: 5px;
 }
+
 .aside-link {
   width: 200px;
   font-size: 15px;
   text-decoration: none;
   margin-bottom: 5px;
 }
+
 .aside-table {
   width: 280px;
   height: 200px;
@@ -261,9 +265,11 @@ td > a {
 footer ul {
   list-style: none;
 }
+
 footer {
   margin: 10px;
 }
+
 footer .footer-col {
   margin: 2px;
 }
@@ -303,7 +309,35 @@ footer li {
   margin-bottom: -20px;
   padding-bottom: -30px;
 }
+.first-line a {
+  color: rgb(54, 53, 53);
+  font-size: 20px;
+  t
+  ext-decoration: none;
+}
+.second-line a {
+  color: rgb(54, 53, 53);
+  font-size: 20px;
+  text-decoration: none;
+}
 
+.third-line a {
+  color: rgb(54, 53, 53);
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.forth-line a {
+  color: rgb(54, 53, 53);
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.aside-container a {
+  color: rgb(54, 53, 53);
+  font-size: 20px;
+  text-decoration: none;
+}
 .container a:hover {
   text-decoration: underline;
 }
@@ -379,6 +413,7 @@ footer li {
   float: left;
   margin-bottom: 3px;
 }
+
 .big-container {
   width: 100%;
   height: 1360px;
@@ -393,22 +428,27 @@ footer li {
   float: right;
   order: 2;
 }
+
 .medium-container,
 .aside-container {
   margin: 15px;
 }
+
 .medium-container {
   width: 70%;
 }
+
 .medium-container img {
   width: 250px;
   height: 200px;
 }
+
 .for-medium {
   width: 100%;
   align-self: center;
   font-weight: bold;
 }
+
 .item17,
 .item18,
 .item19,
@@ -418,20 +458,24 @@ footer li {
   margin: 3px;
   padding: 1px;
 }
+
 .suggestion-newsletters {
   font-weight: bolder;
   font-size: 20px;
   margin: 2px;
 }
+
 .dontshow {
   color: #666;
   font-size: 13px;
   float: right;
 }
+
 .first-line {
   display: flex;
   flex-direction: row;
 }
+
 .item17 {
   order: 1;
   margin: 5px;
@@ -442,21 +486,25 @@ footer li {
   flex-direction: row;
   height: 320px;
 }
+
 .item18 {
   order: 1;
   margin: 3px;
   height: 230px;
 }
+
 .third-line {
   display: flex;
   flex-direction: row;
   height: 320px;
 }
+
 .item19 {
   order: 1;
   margin: 3px;
   height: 230px;
 }
+
 .authors {
   color: #666;
   font-size: 12px;
@@ -464,54 +512,61 @@ footer li {
   margin: 1px;
   padding: 1px;
 }
+
 .time {
   color: #666;
   font-size: 12px;
   float: left;
 }
+
 .forth-line {
   display: flex;
   flex-direction: row;
   height: 300px;
 }
+
 .item20 {
   order: 1;
   margin: 3px;
   height: 230px;
 }
+
 .address {
   font-size: 15px;
   color: rgb(54, 53, 53);
   text-decoration: none;
 }
+
 .address:hover {
   color: #666;
 }
-.first-line a {
-  color: rgb(54, 53, 53);
-  font-size: 20px;
-  text-decoration: none;
-}
-.second-line a {
-  color: rgb(54, 53, 53);
-  font-size: 20px;
-  text-decoration: none;
-}
-.third-line a {
-  color: rgb(54, 53, 53);
-  font-size: 20px;
-  text-decoration: none;
-}
-.forth-line a {
-  color: rgb(54, 53, 53);
-  font-size: 20px;
-  text-decoration: none;
-}
-.aside-container a {
-  color: rgb(54, 53, 53);
-  font-size: 20px;
-  text-decoration: none;
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .adlinks:hover {
   color: #666;
