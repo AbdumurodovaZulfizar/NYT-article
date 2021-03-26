@@ -547,6 +547,7 @@ footer li {
 .adlinks:hover {
   color: #666;
 }
+
 form {
   align-self: center;
   width: 800px;
@@ -556,26 +557,31 @@ form {
   text-align: left;
   position: relative;
   background-color: rgb(221, 221, 192);
-  border: 2px solidrgb(209, 201, 129);
+  border: 2px solid rgb(209, 201, 129);
 }
+
 .form-header {
   color: rgb(54, 53, 53);
   font-size: 30px;
   align-self: center;
   margin-left: 80px;
 }
+
 label {
   color: rgb(54, 53, 53);
   font-size: 22px;
 }
+
 .smile {
   color: yellow;
 }
+
 .form-part {
   width: 200px;
   height: 30px;
   float: right;
 }
+
 textarea {
   align-self: center;
   width: 500px;
@@ -583,28 +589,33 @@ textarea {
   margin: auto;
   font-size: 20px;
 }
+
 .name-email {
   width: 500px;
   height: 50px;
   align-self: center;
   margin: auto;
 }
+
 .textarea {
   width: 500px;
   height: 130px;
   margin: auto;
   align-self: center;
 }
+
 .selection {
   color: rgb(54, 53, 53);
   font-size: 20px;
 }
+
 .checkbox {
   align-self: center;
   text-align: center;
   margin: auto;
   color: aquamarine;
 }
+
 .send {
   width: 80px;
   height: 30px;
@@ -616,6 +627,7 @@ textarea {
   background-color: seagreen;
   color: white;
 }
+
 form:hover {
   height: 620px;
   width: 830px;
