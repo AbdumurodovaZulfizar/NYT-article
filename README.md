@@ -40,7 +40,7 @@ This project is a clone of New York Times Article. In this Project i used icons,
         </ol>
     </li>
 <h3>Live Demo</h3>
-    <a href="https://raw.githack.com/AbdumurodovaZulfizar/NYT-article/main-article/index.html">Live Dome Link
+    <a href="https://abdumurodovazulfizar.github.io/NYT-article/">Live Dome Link
 <h3>Getting Started</h3>
     <p>This project has been built to develop skills with HTML and CSS. Anyone can fork and use it!
 <h3>Prerequisites</h3>
