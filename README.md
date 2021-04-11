@@ -24,7 +24,7 @@ This project is a clone of New York Times Article. In this Project i used icons,
 <li>hover property</li>
 <li>etc</li>
 </ol>
-<img src="/NYT-images/readme.PNG">
+<img src="./NYT-images/readme.PNG">
 <h3>Built With</h3>
     <li>Major languages:
         <ol>
