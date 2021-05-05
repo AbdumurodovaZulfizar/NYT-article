@@ -41,7 +41,7 @@ This project is a clone of New York Times Article. In this Project i used icons,
     </li>
 ## Live Demo
 
-<a href="https://abdumurodovazulfizar.github.io/NYT-article/">Live Dome Link</a>
+   <a href="https://abdumurodovazulfizar.github.io/NYT-article/">Live Dome Link</a>
     
 ## Getting Started
 
