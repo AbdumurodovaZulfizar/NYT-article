@@ -78,4 +78,4 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 Copyright 2021 Zulfizar Abdumurodova
-- [Apache License](https://github.com/AbdumurodovaZulfizar/NYT-article/blob/main/LICENSE.md) for this project.
+- [ISC License](https://github.com/AbdumurodovaZulfizar/NYT-article/blob/main/LICENSE.md) for this project.
