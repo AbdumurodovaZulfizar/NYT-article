@@ -39,6 +39,7 @@ This project is a clone of New York Times Article. In this Project i used icons,
             <li>Live Server extension</li>
         </ol>
     </li>
+    
 ## Live Demo
 
    <a href="https://abdumurodovazulfizar.github.io/NYT-article/">Live Dome Link</a>
