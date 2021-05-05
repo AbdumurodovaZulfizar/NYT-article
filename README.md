@@ -41,28 +41,41 @@ This project is a clone of New York Times Article. In this Project i used icons,
     </li>
 <h3>Live Demo</h3>
     <a href="https://abdumurodovazulfizar.github.io/NYT-article/">Live Dome Link
-<h3>Getting Started</h3>
-    <p>This project has been built to develop skills with HTML and CSS. Anyone can fork and use it!
-<h3>Prerequisites</h3>
-<h3>Setup</h3>
-<h3>Install</h3>
-<h3>Usage</h3>
-<h3>Run tests</h3>
-<h3>Deployment</h3>
-<h3>👤 Authors</h3>
-<ul>
-    <li>GitHub: <a href="https://github.com/AbdumurodovaZulfizar" target="_blank">@GitHublink</li>
-    <li>Twitter: <a href="@Zulfiza70357085" target="_blank">@Twitterlink</li>
-    <li>LinkedIn: <a href="https://www.linkedin.com/in/zulfizar-abdumurodova-a61527206/" target="_blank">@LinkedInlink</li>
-<h3>🤝 Contributing</h3><hr>
-    <p>Contributions, issues, and feature requests are welcome!</p>
-    <br>
-    <p>Feel free to check the issues page.</p>
-<h3>Show your support</h3><hr>
-    <p>Give a ⭐️ if you like this project!</p>
-<h3>Acknowledgments</h3>
-    <ul>
-        <li>Hat tip to anyone whose code was used</li>
-        <li>Inspiration</li>
-        <li>etc</li>
-    </ul>
+## Getting Started
+
+To get a local copy up and running follow these simple steps.
+
+- `git clone https://github.com/AbdumurodovaZulfizar/NYT-article.git`
+- `cd NYT-article`
+- Open this repository on your device
+
+## Prerequisite
+
+    1. Code editor
+    2. Browser
+    3. Live Server
+
+## Authors
+
+👩🏻‍💼 **Zulfizar Abdumurodova**
+
+- GitHub: [Zulfizar Abdumurodova](https://github.com/AbdumurodovaZulfizar)
+- Twitter: [Zulfizar Abdumurodova](https://twitter.com/Zulfiza70357085)
+- LinkedIn: [Zulfizar Abdumurodova](https://www.linkedin.com/in/zulfizar-abdumurodova-a61527206/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- [Microverse](https://www.microverse.org/) for international opportunities and their `README` [template](https://github.com/microverseinc/readme-template).
+
+## 📝 License
+
+Copyright 2021 Zulfizar Abdumurodova
+- [Apache License](https://github.com/AbdumurodovaZulfizar/NYT-article/blob/main/LICENSE.md) for this project.
